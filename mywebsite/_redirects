@@ -1,0 +1,4 @@
+# Redirects for Netlify
+
+# Redirect from /old-path to /new-path
+/old-path /new-path 301
